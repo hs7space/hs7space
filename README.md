@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hs7space
-- 👀 I’m interested in astrodynamics and space exploration.
+- 🛰️ I’m interested in astrodynamics and space exploration.
 - 🌱 I’m currently learning Python and MATLAB.
-- 💞️ I’m looking to collaborate on exciting projects in astronautics domain.
+- 🚀 I’m looking to collaborate on exciting projects in astronautics domain.
 - 📫 Reach me at hs7space@gmail.com
 
 <!---
